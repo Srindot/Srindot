@@ -1,7 +1,7 @@
 ```bash
 base) [archusr@rog ~]$ fastfetch
 
-                          archusr@rog
+                             archusr@rog
         /\           ───────────────────────────
        /  \          💿  ->  Linux 6.14.2-arch1-1
       /    \         🖥   ->  Hyprland 0.48.1 (Wayland)
