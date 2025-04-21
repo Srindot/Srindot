@@ -1,5 +1,5 @@
 ```bash
-base) [archusr@rog ~]$ fastfetch
+[archusr@rog ~]$ fastfetch
 
                              archusr@rog
         /\           ───────────────────────────
@@ -12,10 +12,10 @@ base) [archusr@rog ~]$ fastfetch
                      ───────────────────────────
                              「一期一会」
 
-base) [archusr@rog ~]$ whoami && whatiaminto
+[archusr@rog ~]$ whoami && whatiaminto
 srindot robotics                     
 
-base) [archusr@rog ~]$ bat contact.sh*
+[archusr@rog ~]$ bat contact.sh*
 ___________________________________________________________
 File: ./contact.sh
 ___________________________________________________________
