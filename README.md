@@ -13,7 +13,6 @@ base) [archusr@rog ~]$ fastfetch
                              「一期一会」
 
 base) [archusr@rog ~]$ Whoami && what_Iam_Into
-
 srindot robotics                     
 
 base) [archusr@rog ~]$ bat contact.sh*
@@ -21,10 +20,6 @@ ___________________________________________________________
 File: ./contact.sh
 ___________________________________________________________
  #!/bin/bash
- 
-░█░█░█▀█░█░█░░░▀█▀░█▀█░░░█▀▄░█▀▀░█▀█░█▀▀░█░█░░░█▄█░█▀▀
-░█▀█░█░█░█▄█░░░░█░░█░█░░░█▀▄░█▀▀░█▀█░█░░░█▀█░░░█░█░█▀▀
-░▀░▀░▀▀▀░▀░▀░░░░▀░░▀▀▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░░░▀░▀░▀▀▀
 
 - @LinkedIn : https://www.linkedin.com/in/srinath-dhatre/
 - @Email : bsdhatre@gmail.com
