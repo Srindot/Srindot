@@ -12,7 +12,7 @@ base) [archusr@rog ~]$ fastfetch
                      ───────────────────────────
                              「一期一会」
 
-base) [archusr@rog ~]$ Whoami && what_Iam_Into
+base) [archusr@rog ~]$ whoami && whatiaminto
 srindot robotics                     
 
 base) [archusr@rog ~]$ bat contact.sh*
