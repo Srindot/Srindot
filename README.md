@@ -12,9 +12,6 @@
                      ───────────────────────────
                              「一期一会」
 
-[archusr@rog ~]$ whoami && whatiaminto
-srindot robotics                     
-
 [archusr@rog ~]$ bat contact.sh*
 ___________________________________________________________
 File: ./contact.sh
