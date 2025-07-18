@@ -1,28 +1,11 @@
-```bash
-[archusr@rog ~]$ fastfetch
+# Yo, hope you are having a great day!!
 
-                             archusr@rog
-        /\           ───────────────────────────
-       /  \          💿  ->  Linux 6.14.2-arch1-1
-      /    \         🖥   ->  Hyprland 0.48.1 (Wayland)
-     /      \       </>  ->  kitten
-    /   ,,   \       👨🏼‍💻  ->  python3, c
-   /   |  |   \      🧠   ->  6.09 KiB / 420.01 GiB
-  /_-''    ''-_\     ⏳  ->  999.. hours
-                     ───────────────────────────
-                             「一期一会」
+well, 
+  I am just a robotics enthusiast.
+  Have glance at my repos, you might find something interesting or sometimes weird.
 
-[archusr@rog ~]$ bat contact.sh*
-___________________________________________________________
-File: ./contact.sh
-___________________________________________________________
- #!/bin/bash
-
-- @LinkedIn : https://www.linkedin.com/in/srinath-dhatre/
-- @Email : bsdhatre@gmail.com
-- @Git: https://github.com/Srindot
-___________________________________________________________
-```
-Inspiration: https://github.com/sambuaneesh
+contact me via 
+  - **Discord** : `@Sriney`
+  - **Email** : srinath.bhamidipati@research.iiit.ac.in
 
 
