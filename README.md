@@ -6,6 +6,6 @@ well,
 
 contact me via 
   - **Discord** : `@Sriney`
-  - **Email** : srinath.bhamidipati@research.iiit.ac.in
+  - **Email** : [srinath.bhamidipati@research.iiit.ac.in]
 
 
