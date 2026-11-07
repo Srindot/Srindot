@@ -1,2 +1,18 @@
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
+name: Generate Git Koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch:    # Lets you run it manually
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to save the GIF to your repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
